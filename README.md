@@ -1,25 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ardi</h1>
 <h3 align="center">A passionate frontend developer from USA</h3>
 
-- 🔭 I’m currently working on [ssssasdasdad](adadada)
+- 🔭 I’m currently working on building a campus dining platform that allows students to view menus, track dining hall occupancy, and optimize meal planning in real time.
 
-- 🌱 I’m currently learning **adadasdadasdasd**
+- 🌱 I’m currently learning DevOps tools and Cloud Computing technologies such as AWS, Terraform, Kubernetes, Docker, CI/CD, and Github Actions. 
 
-- 👯 I’m looking to collaborate on [adasdasd](asdasdasd)
-
-- 🤝 I’m looking for help with [adadasda](ASDadad)
-
-- 👨‍💻 All of my projects are available at [rthrhrhrh](rthrhrhrh)
-
-- 📝 I regularly write articles on [hrthrhrth](hrthrhrth)
-
-- 💬 Ask me about **adadadadas**
-
-- 📫 How to reach me **adadad**
-
-- 📄 Know about my experiences [gergegeg](gergegeg)
-
-- ⚡ Fun fact **zczxczxczczc**
+- 🤝  Contact me on through preferably email or discord.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
