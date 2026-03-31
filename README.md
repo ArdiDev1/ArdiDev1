@@ -48,7 +48,7 @@
 <br/>
 
 <h3 align="center">Languages and Tools:</h3>
-<table align="center" cellspacing="15">
+<table align="center" cellspacing="5">
   <tr>
     <td align="center">
       <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/></a>
