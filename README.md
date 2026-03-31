@@ -10,32 +10,40 @@
 <br/>
 
 <h3 align="center">Connect with me:</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/yjttjtyj" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/cvbcbcvb" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/cvbcbcvb" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/c/3453535345" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/sfsfsfsfsdf" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/sfsdfsdfsf" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
-  </a>
-</p>
+<table align="center" cellspacing="15">
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/yjttjtyj" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://stackoverflow.com/users/cvbcbcvb" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/cvbcbcvb" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/c/3453535345" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.leetcode.com/sfsfsfsfsdf" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.gg/sfsdfsdfsf" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
