@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ardi</h1>
-<h3 align="center">A passionate frontend developer from USA</h3>
+<h3 align="center">A passionate CSE student from UConn!</h3>
 
 - 🔭 I’m currently working on building a campus dining platform that allows students to view menus, track dining hall occupancy, and optimize meal planning in real time.
 
