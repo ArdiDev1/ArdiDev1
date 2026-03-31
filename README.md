@@ -6,8 +6,6 @@
   <p>🌱 Learning DevOps & Cloud: AWS, Terraform, Kubernetes, Docker, CI/CD, GitHub Actions</p>
   <p>🤝 Reach me via email or Discord</p>
 </div>
-
-<br/>
 <h3 align="center">Connect with me:</h3>
 
 <table align="center" cellspacing="18">
@@ -44,8 +42,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
 
 <h3 align="center">Languages and Tools:</h3>
 <table align="center" cellspacing="5">
