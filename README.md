@@ -1,3 +1,40 @@
+<h1 align="center">Hi, I'm Ardi</h1>
+<h3 align="center">Computer Science Student at UConn | Systems and DevOps Focus</h3>
+
+<div align="center">
+  <p>Building a campus dining platform with real-time menus, occupancy tracking, and smarter meal planning</p>
+  <p>Currently studying DevOps and cloud technologies: AWS, Terraform, Kubernetes, Docker, CI/CD</p>
+  <p>Interested in distributed systems, backend engineering, and high-performance applications</p>
+  <p>Contact: LinkedIn or Discord</p>
+</div>
+
+---
+
+<h3 align="center">Connect</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yjttjtyj" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/cvbcbcvb" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/cvbcbcvb" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/3453535345" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/sfsfsfsfsdf" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" />
+  </a>
+  <a href="https://discord.gg/sfsdfsdfsf" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" width="40" />
+  </a>
+</p>
+
+---
+
 <h3 align="center">Languages and Tools</h3>
 
 <table align="center">
