@@ -69,9 +69,7 @@
   <tr>
     <td align="center">
       <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"/></a>
-    </td>
-    <td align="center">
-      <a href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50" height="50"/></a>
+    </td>></a>
     </td>
     <td align="center">
       <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/></a>
