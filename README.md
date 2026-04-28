@@ -12,102 +12,36 @@
 
 <h3 align="center">Connect</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 12px;">
-      <a href="https://github.com/YOUR_USERNAME" target="_blank">
-        <img src="https://cdn.simpleicons.org/github" height="40" />
-      </a>
-    </td>
-    <td align="center" style="padding: 12px;">
-      <a href="https://linkedin.com/in/yjttjtyj" target="_blank">
-        <img src="https://cdn.simpleicons.org/linkedin" height="40" />
-      </a>
-    </td>
-    <td align="center" style="padding: 12px;">
-      <a href="https://www.leetcode.com/sfsfsfsfsdf" target="_blank">
-        <img src="https://cdn.simpleicons.org/leetcode" height="40" />
-      </a>
-    </td>
-    <td align="center" style="padding: 12px;">
-      <a href="https://discord.gg/sfsdfsdfsf" target="_blank">
-        <img src="https://cdn.simpleicons.org/discord" height="40" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yjttjtyj">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/sfsfsfsfsdf">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://discord.gg/sfsdfsdfsf">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <h3 align="center">Languages and Tools</h3>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://aws.amazon.com">
-        <img src="https://cdn.simpleicons.org/amazonaws" width="50" height="50"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.cprogramming.com/">
-        <img src="https://cdn.simpleicons.org/c" width="50" height="50"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://isocpp.org/">
-        <img src="https://cdn.simpleicons.org/cplusplus" width="50" height="50"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-        <img src="https://cdn.simpleicons.org/csharp" width="50" height="50"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://www.docker.com/">
-        <img src="https://cdn.simpleicons.org/docker" width="50" height="50"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://dotnet.microsoft.com/">
-        <img src="https://cdn.simpleicons.org/dotnet" width="50" height="50"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.figma.com/">
-        <img src="https://cdn.simpleicons.org/figma" width="50" height="50"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/">
-        <img src="https://cdn.simpleicons.org/git" width="50" height="50"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://www.java.com/">
-        <img src="https://cdn.simpleicons.org/java" width="50" height="50"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://kubernetes.io/">
-        <img src="https://cdn.simpleicons.org/kubernetes" width="50" height="50"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linux.org/">
-        <img src="https://cdn.simpleicons.org/linux" width="50" height="50"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.python.org/">
-        <img src="https://cdn.simpleicons.org/python" width="50" height="50"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
